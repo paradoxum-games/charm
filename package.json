@@ -6,7 +6,6 @@
       "type": "git",
       "url": "https://github.com/paradoxum-games/charm"
     },
-	"private": true,
 	"scripts": {
 		"build": "sh bin/build.sh",
 		"check": "sh bin/check.sh",
