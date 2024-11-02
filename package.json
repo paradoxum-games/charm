@@ -1,4 +1,11 @@
 {
+	"name": "@paradoxum-games/charm",
+    "version": "0.8.1",
+    "description": "",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/paradoxum-games/charm"
+    },
 	"private": true,
 	"scripts": {
 		"build": "sh bin/build.sh",
