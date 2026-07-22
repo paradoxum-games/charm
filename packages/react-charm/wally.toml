@@ -1,7 +1,7 @@
 [package]
-name = "littensy/react-charm"
+name = "paradoxum/react-charm"
 version = "0.4.0"
-registry = "https://github.com/UpliftGames/wally-index"
+registry = "https://github.com/paradoxum-games/wally-index"
 realm = "shared"
 exclude = [
 	"node_modules",
@@ -14,4 +14,4 @@ exclude = [
 
 [dependencies]
 Charm = "littensy/charm@^0.11.0"
-React = "jsdotlua/react@^17"
+React = "paradoxum/react@=17.3.10"
